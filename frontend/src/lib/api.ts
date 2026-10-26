@@ -1,4 +1,4 @@
-const API_BASE = "http://localhost:4000/api/v1";
+const API_BASE = "https://localink-backend-6wy8.onrender.com/api/v1";
 
 export async function api<T = any>(
     endpoint: string,
